@@ -12,8 +12,3 @@
   - Area and perimeter for 2D shapes
   - Surface area and volume for 3D shapes
 - Beginner-friendly and modular code structure
-
----
-
-## 📁 File Structure
-
